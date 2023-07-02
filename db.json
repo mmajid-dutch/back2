@@ -442,5 +442,77 @@
         "parts": []
       }
     }
+  ],
+  "subscriptions": [
+    {
+      "id": "1",
+      "data": {
+        "paymentId": "string",
+        "paidBy": "string",
+        "title": "string 1",
+        "validUntil": "2023-07-02T15:52:24.764Z"
+      },
+      "message": {
+        "text": "string",
+        "action": "string",
+        "variant": "string"
+      }
+    },
+    {
+      "id": "2",
+      "data": {
+        "paymentId": "string",
+        "paidBy": "string",
+        "title": "string 2",
+        "validUntil": "2023-07-02T15:52:24.764Z"
+      },
+      "message": {
+        "text": "string",
+        "action": "string",
+        "variant": "string"
+      }
+    },
+    {
+      "id": "3",
+      "data": {
+        "paymentId": "string",
+        "paidBy": "string",
+        "title": "string 3",
+        "validUntil": "2023-07-02T15:52:24.764Z"
+      },
+      "message": {
+        "text": "string",
+        "action": "string",
+        "variant": "string"
+      }
+    },
+    {
+      "id": "4",
+      "data": {
+        "paymentId": "string",
+        "paidBy": "string",
+        "title": "string 4",
+        "validUntil": "2023-07-02T15:52:24.764Z"
+      },
+      "message": {
+        "text": "string",
+        "action": "string",
+        "variant": "string"
+      }
+    },
+    {
+      "id": "5",
+      "data": {
+        "paymentId": "string",
+        "paidBy": "string",
+        "title": "string 5",
+        "validUntil": "2023-07-02T15:52:24.764Z"
+      },
+      "message": {
+        "text": "string",
+        "action": "string",
+        "variant": "string"
+      }
+    }
   ]
 }
