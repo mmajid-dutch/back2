@@ -404,16 +404,27 @@
   ],
   "subscriptions": [
     {
-      "paymentId": "string",
-      "paidBy": "string",
-      "title": "string 1",
-      "validUntil": "2023-07-02T15:52:24.764Z"
-    },
-    {
-      "paymentId": "string",
-      "paidBy": "string",
-      "title": "string 2",
-      "validUntil": "2023-07-02T15:52:24.764Z"
+      "id": "1",
+      "data": [
+        {
+          "paymentId": "string",
+          "paidBy": "string",
+          "title": "string 1",
+          "validUntil": "2023-07-02T15:52:24.764Z"
+        },
+        {
+          "paymentId": "string",
+          "paidBy": "string",
+          "title": "string 2",
+          "validUntil": "2023-07-02T15:52:24.764Z"
+        }
+      ],
+      "message": {
+        "type": "snack",
+        "title": "Damet garm!",
+        "text": "Khoda bede barkat!",
+        "theme": "info"
+      }
     }
   ]
 }
