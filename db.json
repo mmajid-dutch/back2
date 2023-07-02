@@ -20,7 +20,7 @@
           {
             "id": "4",
             "link": "/topics/4",
-            "title": "Snack Book",
+            "title": "Toast Book",
             "type": "list"
           },
           {
@@ -87,7 +87,7 @@
     {
       "id": "4",
       "data": {
-        "title": "Snack Book",
+        "title": "Toast Book",
         "items": [
           {
             "id": "10",
@@ -148,7 +148,7 @@
           {
             "id": "8",
             "link": "/media/8",
-            "title": "Snack Media",
+            "title": "Toast Media",
             "type": "media"
           }
         ]
@@ -262,7 +262,7 @@
     {
       "id": "2",
       "data": {
-        "topicTitle": "Snack Book",
+        "topicTitle": "Toast Book",
         "title": "Media Two",
         "lengthSeconds": 1200,
         "parts": [
@@ -276,7 +276,7 @@
     {
       "id": "3",
       "data": {
-        "topicTitle": "Snack Book",
+        "topicTitle": "Toast Book",
         "title": "Media Three",
         "lengthSeconds": 1200,
         "parts": [
@@ -290,7 +290,7 @@
     {
       "id": "4",
       "data": {
-        "topicTitle": "Snack Book",
+        "topicTitle": "Toast Book",
         "title": "Error Media",
         "lengthSeconds": 1200,
         "parts": [
@@ -372,12 +372,12 @@
       "id": "8",
       "data": {
         "topicTitle": "Book One: Chapter One",
-        "title": "Snack Media",
+        "title": "Toast Media",
         "lengthSeconds": 1200,
         "parts": []
       },
       "message": {
-        "type": "snack",
+        "type": "toast",
         "title": "Damet garm!",
         "text": "Kheili Bahali!",
         "theme": "info"
@@ -420,7 +420,7 @@
         }
       ],
       "message": {
-        "type": "snack",
+        "type": "toast",
         "title": "Damet garm!",
         "text": "Khoda bede barkat!",
         "theme": "info"
