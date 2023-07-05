@@ -253,7 +253,7 @@
         "lengthSeconds": 1200,
         "parts": [
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL001.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL001.enc",
             "lengthSeconds": 112
           }
         ]
@@ -267,7 +267,7 @@
         "lengthSeconds": 1200,
         "parts": [
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL002.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL002.enc",
             "lengthSeconds": 112
           }
         ]
@@ -281,7 +281,7 @@
         "lengthSeconds": 1200,
         "parts": [
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL003.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL003.enc",
             "lengthSeconds": 112
           }
         ]
@@ -295,7 +295,7 @@
         "lengthSeconds": 1200,
         "parts": [
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL004.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL004.enc",
             "lengthSeconds": 112
           }
         ]
@@ -316,19 +316,19 @@
         "lengthSeconds": 1200,
         "parts": [
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL005.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL005.enc",
             "lengthSeconds": 112
           },
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL006.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL006.enc",
             "lengthSeconds": 217
           },
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL007.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL007.enc",
             "lengthSeconds": 512
           },
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL008.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL008.enc",
             "lengthSeconds": 617
           }
         ]
@@ -342,11 +342,11 @@
         "lengthSeconds": 1200,
         "parts": [
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL009.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL009.enc",
             "lengthSeconds": 112
           },
           {
-            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL010.MP3",
+            "link": "https://github.com/mmajid-dutch/back/raw/master/NLNL010.enc",
             "lengthSeconds": 112
           }
         ]
